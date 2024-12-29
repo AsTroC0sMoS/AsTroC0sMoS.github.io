@@ -1,3 +1,6 @@
+layout: page
+permalink: /Home/PageTest
+
 theme: jekyll-theme-minimal
 title: Home Page
 description: Physics Student At UC Berkeley
