@@ -1,3 +1,1 @@
-layout: page
-title: "PageTest"
-permalink: /Home/PageTest
+## Page Test
